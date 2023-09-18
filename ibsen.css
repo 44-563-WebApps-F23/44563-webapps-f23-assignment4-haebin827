@@ -1,0 +1,43 @@
+.speech {
+    font-family: Garamond;
+    font-size: 16px;
+    color: black;
+}
+
+.direction {
+    font-family: sans-serif;
+    font-size: 14px;
+    color: black;
+    background-color: lightyellow;
+}
+
+.direction:hover {
+    background-color: darkblue;
+    color: white;
+}
+
+.nurse { 
+    color: green; 
+}
+
+.nora {
+    color: purple; 
+}
+
+table {
+    width: 100%;
+    margin: 20px 0;
+}
+
+th {
+    background-color: lightcoral;
+    text-align: center;
+    padding: 8px;
+    border: 2px solid #510000;
+}
+
+td {
+    text-align: center;
+    padding: 8px;
+    border: 2px solid #510000;
+}
