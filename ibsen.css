@@ -41,3 +41,13 @@ td {
     padding: 8px;
     border: 2px solid #510000;
 }
+
+.nurse:hover {
+    text-shadow: 2px 2px 4px #008e36;
+    border: 2px solid #6bffa4; width: 60px;
+}
+
+.nora:hover {
+    text-shadow: 2px 2px 4px #710060;
+    border: 2px solid #ff84f1; width: 52px;
+}
