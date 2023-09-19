@@ -51,3 +51,28 @@ td {
     text-shadow: 2px 2px 4px #710060;
     border: 2px solid #ff84f1; width: 52px;
 }
+
+ul.navbar-horizontal {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+ul.navbar-horizontal li {
+    float: left;
+    color: #000;
+    background-color: yellowgreen;
+    width: 140px;
+}
+
+ul.navbar-horizontal a {
+    display: block;
+    padding: 10px;
+    font-family:Impact;
+    text-align: center;
+}
+
+ul.navbar-horizontal a:hover {
+    background-color: #555;
+    color: white;
+}
